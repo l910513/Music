@@ -1,0 +1,9 @@
+[
+  {
+    "name": "YouTube Plugin",
+    "description": "Simple YouTube search plugin",
+    "author": "AAA",
+    "version": "0.1.0",
+    "src": "https://raw.githubusercontent.com/aaa/bbb/main/index.js"
+  }
+]
